@@ -1,9 +1,10 @@
 
-*
+# *
+
 node_modules/
 # src/
 !dist/
-!dist/img/*
+!dist/img/*/
 !dist/img/*/
 !dist/fonts/*
 !dist/fonts/*/
