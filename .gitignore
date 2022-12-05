@@ -1,0 +1,17 @@
+
+*
+node_modules/
+# src/
+!dist/
+!dist/img/*
+!dist/img/*/
+!dist/fonts/*
+!dist/fonts/*/
+!dist/js/*
+!dist/js/*/
+!dist/css/
+!dist/css/*/
+!dist/css/*
+!dist/index.html
+!.gitignore
+node_modules
