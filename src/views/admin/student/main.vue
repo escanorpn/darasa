@@ -21,7 +21,7 @@
          
       </mdb-edge-header>
     <v-main class="grey lighten-3">
-      <v-container>
+      <v-container style="padding:3px">
      
             <v-sheet
               min-height="70vh"

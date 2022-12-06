@@ -2,7 +2,7 @@
 <template>
   
     <v-main class="grey lighten-3">
-      <v-container>
+      <v-container style="padding:3px">
        
 
         <v-expansion-panels focusable>
