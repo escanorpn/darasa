@@ -7,8 +7,8 @@ Vue.use(Vuex)
 
 // const base="https://sclaudia.losenviskas.com/";
 
-// const base="http://sztech.losenviskas.com/";
-const base="http://localhost/w/darasa/";
+const base="http://darasa.losenviskas.com/";
+// const base="http://localhost/w/darasa/";
 
 export default new Vuex.Store({
   state: {
